@@ -1,0 +1,20 @@
+{
+  "name": "hakathon-environment-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangmeshwar90/Hakathon-Environment-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangmeshwar90/Hakathon-Environment-/issues"
+  },
+  "homepage": "https://github.com/sangmeshwar90/Hakathon-Environment-#readme"
+}
